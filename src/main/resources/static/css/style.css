@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+
+h1{
+	color: blue;
+}
+
+form label, .submit{
+	margin-top: 20px;
+}
+
+label{
+	font-weight: bold;
+}
+
+h2{
+	color: blue;
+}
+
+p{
+	margin: 0px;
+	width: 250px;
+}
+
+input, textarea{
+	width: inherit;
+}
+
+.viewName{
+	margin-left: 70px;
+}
+
+.viewDesc{
+	margin-left: 32px;
+}
+
+.viewVendor{
+	margin-left: 124px;
+}
+
+.viewAmount{
+	margin-left: 73px;
+}
+
+.viewP{
+	width: auto;
+}
